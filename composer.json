@@ -82,14 +82,14 @@
         "sensio/distribution-bundle": "^5.0.21",
         "sensio/framework-extra-bundle": "^3.0.29",
         "sensio/generator-bundle": "^3.1.7",
-        "shopsys/migrations": "dev-master",
-        "shopsys/form-types-bundle": "dev-master",
-        "shopsys/framework": "dev-master",
-        "shopsys/plugin-interface": "dev-master",
-        "shopsys/product-feed-heureka": "dev-master",
-        "shopsys/product-feed-heureka-delivery": "dev-master",
-        "shopsys/product-feed-zbozi": "dev-master",
-        "shopsys/product-feed-google": "dev-master",
+        "shopsys/migrations": "dev-msa-microservice-elastic",
+        "shopsys/form-types-bundle": "dev-msa-microservice-elastic",
+        "shopsys/framework": "dev-msa-microservice-elastic",
+        "shopsys/plugin-interface": "dev-msa-microservice-elastic",
+        "shopsys/product-feed-heureka": "dev-msa-microservice-elastic",
+        "shopsys/product-feed-heureka-delivery": "dev-msa-microservice-elastic",
+        "shopsys/product-feed-zbozi": "dev-msa-microservice-elastic",
+        "shopsys/product-feed-google": "dev-msa-microservice-elastic",
         "snc/redis-bundle": "2.1.4",
         "stof/doctrine-extensions-bundle": "^1.3.0",
         "symfony/assetic-bundle": "^2.8.2",
@@ -110,8 +110,8 @@
         "codeception/codeception": "^2.4.0",
         "phpstan/phpstan": "^0.7",
         "phpunit/phpunit": "^7.0",
-        "shopsys/coding-standards": "dev-master",
-        "shopsys/http-smoke-testing": "dev-master"
+        "shopsys/coding-standards": "dev-msa-microservice-elastic",
+        "shopsys/http-smoke-testing": "dev-msa-microservice-elastic"
     },
     "conflict": {
         "codeception/stub": ">=2.0.2"
